@@ -88,6 +88,26 @@ practical guidance.
 ## Kere Architecture Pritzker Architecture Prize / Anna Abengowe
 * In this workshop, students learn about the historical context and the transformation role of the new GSA (Graduate School of Architecture) at the University of Johannesburg, gaining an understanding of design as a motor for social change. Students are exposed to the work of Diébédo Francis Kéré, the first African to receive the Pritzker Architecture Prize and discussed the need to embrace what's personal and unique to them in their creative endeavors.
 
+
+## Introduction to Character Design by Diganta Ghorai
+
+In this workshop the students designed characters based on 3 design constraints -
+
+* A present hobby
+* A favorite animal (real/fictional)
+* A future goal/plan
+
+## The Tall Grass
+
+Students watched an episode of Love, Death + Robots - Season 2, Episode 5
+It was for the demonstration of applied character design, scene design and lighting in film and animation. It also showcased creative visualization of the art of story telling.
+
+# Week 2
+
+## Introduction to Game Design by Diganta Ghorai
+
+Using the character designs from the previous week, we created a player vs player card battle game where each character had specific character moves with attack/defense/health/special attack point constraints.
+
 # Week 3
 
 ## Talking Books / James Langton
@@ -178,6 +198,18 @@ Multisensory Design to their product/service.
 
 ### Wednesday Excursion
 Students will be asked to evaluate the space they visit on the Wednesday excursion. Applying the philosophies of Design for Diversity and Design for all the Senses to rethink how these public spaces can be redesigned to meet the criteria of designing for diversity of human forms and abilities that we know to inhabit the planet.
+
+## Intro to 3D Modeling by Diganta Ghorai
+
+The students were introduced how to use Blender - an open source 3D modeling software for modeling a car.
+
+*  Divided into 3 sessions, first session comprised of learning basic navigation and exploring the software.
+*  Session two featured box modeling, using modifiers and getting started with building the car.
+*  The third and final session was about texturing, lighting and rendering the artwork using a scene camera.
+
+## Clay Modeling by Casta Zhu & Diganta Ghorai
+
+The students made 3D clay models of the character designs students made in the first week.
 
 # Week 5
 
